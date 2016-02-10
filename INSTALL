@@ -1,0 +1,9 @@
+Building Accelerate
+
+See doc/readme-qt.rst for instructions on building Accelerate QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Accelerate.
+
+See doc/build-*.txt for instructions on building accelerated,
+the intended-for-services, no-graphical-interface, reference
+implementation of Accelerate.
